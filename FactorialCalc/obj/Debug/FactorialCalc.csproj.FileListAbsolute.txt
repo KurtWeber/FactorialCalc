@@ -1,1 +1,6 @@
 c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.exe.config
+c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.exe
+c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\bin\Debug\FactorialCalc.pdb
+c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.exe
+c:\users\kurt\documents\visual studio 2015\Projects\FactorialCalc\FactorialCalc\obj\Debug\FactorialCalc.pdb
